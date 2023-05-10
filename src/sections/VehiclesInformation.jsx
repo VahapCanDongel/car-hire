@@ -8,10 +8,10 @@ export default function VehiclesInformation() {
                     Vehicle Models
                 </div>
                 <div className="section-subtitle">Explore our rental fleet</div>
-                <p className="w-[550px] text-center text-gray-500">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores quia unde officia culpa earum praesentium reiciendis fuga quas eum eaque?</p>
+                <p className="w-[550px] text-center text-gray-500 sm:w-[300px]">Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores quia unde officia culpa earum praesentium reiciendis fuga quas eum eaque?</p>
             </div>
 
-            <div className="flex justify-between">
+            <div className="flex justify-between sm:flex-col sm:items-center">
 
                 <div className="flex flex-col gap-8">
                     <button className="vehilce-button">BMW 1 Series</button>
