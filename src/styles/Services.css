@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+    @apply w-full flex justify-center items-center my-20 flex-col
+} 
+
+.card {
+    @apply flex flex-col  items-center h-[400px] gap-6
+}
+
+.card-title {
+    @apply text-[20px] font-extrabold
+}
+
+.shape {
+    @apply w-[170px] h-[170px] bg-orange-500 rounded-tl-[100px] rounded-tr-[60px] rounded-bl-[80px] rounded-br-[130px] opacity-60 shadow-orange-500 shadow-2xl flex justify-center items-center
+}
+
+
+.card-paragraph{
+    @apply w-[270px] text-center
+}

@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav {
+    @apply flex w-full h-[20%] justify-evenly items-center p-4 py-8
+}
+
+ul{
+    @apply flex gap-5 cursor-pointer 
+}
+
+.logo {
+    @apply font-semibold text-[25px]
+}
