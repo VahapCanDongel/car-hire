@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.vehilce-button {
+    @apply bg-gray-200 font-semibold rounded-sm w-[300px]
+}

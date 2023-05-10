@@ -3,9 +3,9 @@ import "../styles/Services.css";
 export default function Services() {
   return (
     <div className="container">
-      <div className="text-[35px] font-bold flex flex-col justify-center items-center sm:text-[20px]">
+      <div className="section-title">
         Our services
-        <div className="text-[40px] sm:text-[23px]">
+        <div className="section-subtitle">
           You can quickly & easily hire your desired car.
         </div>
       </div>

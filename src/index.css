@@ -2,3 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
+.section-title{
+    @apply text-[35px] font-bold flex flex-col justify-center items-center sm:text-[20px]
+}
+.section-subtitle{
+    @apply text-[40px] sm:text-[23px] font-bold
+}
