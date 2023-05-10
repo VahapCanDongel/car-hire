@@ -22,11 +22,7 @@ export default function VehiclesInformation() {
 
                 <img src="https://www.bmw.co.za/content/dam/bmw/marketZA/bmw_co_za/images/bmw-finance/118i-msport-offer-cosy-image.png" />
 
-                <table>
-                    <tr>
-                        <td></td>
-                    </tr>
-                </table>
+
             </div>
         </div>
     )
