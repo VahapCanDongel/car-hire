@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .container {
-    @apply w-full flex justify-center items-center my-20 flex-col
+    @apply w-full flex justify-center items-center my-20 flex-col sm:p-4
 } 
 
 .card {

@@ -6,17 +6,17 @@ export default function Hero() {
     <div className="w-full flex justify-center items-center">
       <div className="hero">
         <div>
-          <div>
+          <div className='p-4'>
             <div className="font-bold text-[18px]">Plan your trip now.</div>
 
-            <div className="text-[50px] mb-6 font-extrabold sm:text-[38px]">
+            <div className="text-[50px] mb-6 font-extrabold sm:text-[35px]">
               We are different, you{" "}
               <span className="text-orange-400">save</span> different!
             </div>
           </div>
 
-          <div className="flex flex-col w-3/3 gap-10">
-            <p className="text-[18px]">
+          <div className="flex flex-col w-3/3 gap-10 sm:w-full">
+            <p className="text-[18px] sm:p-4">
               Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aperiam
               voluptatum eos sit? Tenetur, libero? Esse, quis ipsa sint
               accusamus, perferendis provident nobis necessitatibus asperiores

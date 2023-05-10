@@ -7,7 +7,7 @@
 }
 
 ul{
-    @apply flex gap-5 cursor-pointer 
+    @apply flex gap-5 cursor-pointer sm:hidden
 }
 
 .logo {
