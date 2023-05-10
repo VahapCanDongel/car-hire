@@ -8,3 +8,7 @@
 .section-subtitle{
     @apply text-[40px] sm:text-[23px] font-bold
 }
+
+body {
+    @apply font-poppins
+}
