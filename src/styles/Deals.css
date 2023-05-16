@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.deals-base{
+    @apply flex justify-center items-center w-full my-10
+}
+
+.icon-container{
+    @apply w-[110px] h-[110px] bg-orange-500 rounded-full shadow-2xl shadow-orange-400
+}
+
+.deal-card {
+    @apply flex gap-8
+}
+
+.card-body {
+    @apply w-[300px]  flex flex-col gap-2
+}

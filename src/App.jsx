@@ -1,5 +1,6 @@
 import Navigation from "./components/Navigation";
 import BookingForm from "./sections/BookingForm";
+import Deals from "./sections/Deals";
 import Hero from "./sections/Hero";
 import Services from "./sections/Services";
 import SloganDivider from "./sections/SloganDivider";
@@ -13,6 +14,7 @@ export default function App() {
       <Services />
       <VehiclesInformation />
       <SloganDivider />
+      <Deals />
     </div>
   )
 }
