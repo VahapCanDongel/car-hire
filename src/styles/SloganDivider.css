@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slogan-divider{
+    @apply w-full bg-gray-800 h-[25vh] flex justify-center items-center flex-col gap-4
+}

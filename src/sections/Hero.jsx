@@ -42,7 +42,7 @@ export default function Hero() {
 
         <img
           src="https://www.bmw.co.za/content/dam/bmw/marketZA/bmw_co_za/images/bmw-finance/118i-msport-offer-cosy-image.png"
-          className="bg-orange-400 rounded-tl-[400px] rounded-br-[200px] p-4 sm:hidden"
+          className="bg-orange-400 rounded-tl-[400px] rounded-br-[200px] p-4 sm:hidden shadow-orange-400 shadow-2xl"
         />
       </div>
     </div>
