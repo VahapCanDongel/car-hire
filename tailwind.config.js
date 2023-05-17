@@ -15,6 +15,7 @@ export default {
     },
     fontFamily: {
       poppins: ["Poppins", "sans-serif"],
+      space: ["Space Grotesk", "sans-serif"],
     },
   },
   plugins: [],
