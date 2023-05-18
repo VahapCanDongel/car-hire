@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <div className="w-full flex justify-center items-center min-h-[450px]">
-      <div className="w-3/4 p-4 flex justify-evenly sm:flex-col sm:gap-6 ">
+      <div className="w-3/4 p-4 flex justify-between sm:flex-col sm:gap-6 ">
 
         <div className="flex flex-col gap-6 text-center sm:gap-2 sm:my-4 sm:justify-center sm:items-center">
           <div className="font-semibold text-[25px]">Car Rental</div>
