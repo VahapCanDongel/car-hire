@@ -9,7 +9,7 @@
 }
 
 .icon-container{
-    @apply w-[110px] h-[110px] bg-orange-400 rounded-full shadow-2xl shadow-orange-400 flex justify-center items-center sm:w-[90px] sm:h-[80px]
+    @apply w-[110px] h-[110px] bg-orange-400 rounded-full shadow-2xl shadow-orange-400 flex justify-center items-center sm:w-[90px] sm:h-[80px] bg-opacity-80
 }
 
 .deal-card {
