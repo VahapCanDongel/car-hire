@@ -2,7 +2,7 @@ import "../styles/VehiclesInformation.css"
 
 export default function VehiclesInformation() {
     return (
-        <div className="w-full flex flex-col justify-center items-center bg-zinc-50 py-8">
+        <div className="w-full flex flex-col justify-center items-center bg-zinc-100 py-8">
             <div className="flex flex-col justify-center items-center">
                 <div className="section-title">
                     Vehicle Models

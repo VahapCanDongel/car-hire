@@ -1,6 +1,7 @@
 import Navigation from "./components/Navigation";
 import BookingForm from "./sections/BookingForm";
 import Deals from "./sections/Deals";
+import Faq from "./sections/Faq";
 import Hero from "./sections/Hero";
 import Services from "./sections/Services";
 import SloganDivider from "./sections/SloganDivider";
@@ -17,6 +18,7 @@ export default function App() {
       <SloganDivider />
       <Deals />
       <Testimonials />
+      <Faq />
     </div>
   )
 }
