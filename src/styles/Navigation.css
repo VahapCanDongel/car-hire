@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .nav {
-    @apply flex w-full h-[20%] justify-evenly items-center p-4 py-8
+    @apply flex w-full h-[20%] justify-between items-center p-4 py-8
 }
 
 ul{
