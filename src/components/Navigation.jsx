@@ -13,7 +13,7 @@ export default function Navigation() {
 
             <ul className="flex justify-center items-center">
                 <li>Sign In</li>
-                <li className="bg-orange-400 p-4 text-white rounded-md">Register</li>
+                <li className="bg-orange-400 p-4 text-white rounded-sm">Register</li>
             </ul>
 
         </div>

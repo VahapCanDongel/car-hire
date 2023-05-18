@@ -23,7 +23,7 @@ export default function Hero() {
               inventore distinctio voluptas ducimus similique? Autem.
             </p>
             <div className="flex gap-6">
-              <button className="bg-orange-500 shadow-orange-300 shadow-lg flex justify-center items-center gap-6 text-white">
+              <button className="bg-orange-500 shadow-orange-300 shadow-lg flex justify-center items-center gap-6 text-white rounded-sm">
                 Book
                 <svg
                   width="24"

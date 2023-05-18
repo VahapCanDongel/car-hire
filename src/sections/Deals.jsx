@@ -3,7 +3,7 @@ import "../styles/Deals.css";
 export default function Deals() {
   return (
     <div className="deals-base">
-      <img src="https://www.cargiant.co.uk/media/1wentceg/cg-hero.png?height=0&width=0&quality=&mode=Crop&center=0.5,0.5&bgcolor=" className="sm:hidden"/>
+      <img src="https://www.cargiant.co.uk/media/1wentceg/cg-hero.png?height=0&width=0&quality=&mode=Crop&center=0.5,0.5&bgcolor=" className="sm:hidden" />
 
       <div className="flex justify-evenly items-center gap-8 w-full my-10 sm:flex-col sm:w-2/3">
         <div className="flex flex-col gap-8 w-[450px] sm:w-[400px] sm:justify-center sm:items-center">
@@ -20,7 +20,7 @@ export default function Deals() {
             voluptates! Velit facilis recusandae quo doloribus omnis incidunt
             possimus sint soluta, doloremque est!
           </p>
-          <button className="rounded-md p-2 w-[200px] text-white h-[55px] sm:w-[180px] sm:h-[50px] bg-orange-500">
+          <button className="p-2 w-[200px] text-white h-[55px] sm:w-[180px] sm:h-[50px] bg-orange-500 rounded-sm">
             Find Details {">"}
           </button>
         </div>

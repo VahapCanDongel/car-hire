@@ -36,7 +36,7 @@ export default function Contact() {
                         <textarea className="bg-gray-50 p-4 border w-[450px] h-[170px] resize-none sm:w-full" placeholder="Your message"></textarea>
                     </div>
 
-                    <button className="bg-orange-500 w-full h-[65px]">Send Message</button>
+                    <button className="bg-orange-500 w-full h-[65px] rounded-sm">Send Message</button>
                 </div>
 
             </div>
