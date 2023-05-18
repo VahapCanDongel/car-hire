@@ -17,8 +17,9 @@ export default function App() {
       <VehiclesInformation />
       <SloganDivider />
       <Deals />
-      <Testimonials />
       <Faq />
+      <Testimonials />
+      
     </div>
   )
 }
