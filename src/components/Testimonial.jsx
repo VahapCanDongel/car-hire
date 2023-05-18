@@ -14,7 +14,7 @@ export default function Testimonial() {
               <div className="sm:text-[14px]">Belgrade</div>
             </div>
   
-            <div className="font-semibold font-space text-[205px] text-orange-400 h-[35px] absolute bottom-[100px] left-[400px] sm:left-[260px]">
+            <div className="font-semibold font-space text-[205px] text-orange-400 h-[35px] absolute bottom-[100px] left-[380px] sm:left-[260px]">
               ”
             </div>
           </div>

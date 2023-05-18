@@ -6,7 +6,7 @@ export default function Testimonials() {
       <div className="w-full flex justify-center items-center flex-col ">
         <div className="text-[25px] font-semibold">Reviewed By People</div>
         <div className="text-[35px] font-bold">Client's Testimonials</div>
-        <p className="w-[500px] text-center text-gray-600 sm:w-[400px] mb-4">
+        <p className="w-[500px] text-center text-gray-600 sm:w-[400px] mb-20 mt-2">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis quae
           reprehenderit at qui eveniet recusandae praesentium accusantium quod
           debitis! Ullam!
