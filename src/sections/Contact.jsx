@@ -28,7 +28,7 @@ export default function Contact() {
 
                     <div className="flex flex-col gap-1">
                         <label>Email <span className="text-red-500">*</span></label>
-                        <input type="text" className="bg-gray-40 border p-4 w-[450px] sm:w-full" placeholder="youremail@example.com" />
+                        <input type="text" className="bg-gray-50 border p-4 w-[450px] sm:w-full" placeholder="youremail@example.com" />
                     </div>
 
                     <div className="flex flex-col gap-1">
