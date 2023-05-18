@@ -1,7 +1,7 @@
 export default function Testimonial() {
     return (
       <div>
-        <div className="bg-white w-[600px] p-6 rounded-sm flex justify-center items-center flex-col sm:w-[400px]">
+        <div className="bg-white w-[600px] p-10 rounded-sm flex justify-center items-center flex-col sm:w-[400px]">
           <p className="w-[450px] text-[20px] font-semibold sm:text-[15px] sm:w-[350px]">
             "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit
             similique hic nostrum distinctio vel! Quidem, ad officiis. Eligendi
