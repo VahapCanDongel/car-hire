@@ -3,13 +3,11 @@ export default function Navigation() {
     return (
         <div className='nav'>
             <div className='logo'>Logo</div>
-            
+
             <ul>
-                <li>Home</li>
                 <li>About</li>
                 <li>Catalogue</li>
                 <li>Testimonials</li>
-                <li>Team</li>
                 <li>Contact</li>
             </ul>
 

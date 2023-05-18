@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <div className="w-full flex justify-center items-center min-h-[450px]">
+    <div className="w-full flex justify-center items-center min-h-[260px]">
       <div className="w-3/4 p-4 flex justify-between sm:flex-col sm:gap-6 ">
 
         <div className="flex flex-col gap-6 text-center sm:gap-2 sm:my-4 sm:justify-center sm:items-center">
@@ -31,10 +31,10 @@ export default function Footer() {
         </div>
 
         <div className="flex flex-col gap-2 sm:text-center sm:justify-center sm:items-center">
-            <div className="font-semibold text-[25px]">Subscription</div>
-            <p className="w-[300px]">Subscribe to get informed with latest informations and deals. </p>
-            <input type="email" placeholder="Email" className="w-[290px] border p-3 outline-none focus:outline-black focus:border-none"/>
-            <button className="w-[290px] bg-orange-500 h-[55px] rounded-none">Submit</button>
+          <div className="font-semibold text-[25px]">Subscription</div>
+          <p className="w-[300px]">Subscribe to get informed with latest informations and deals. </p>
+          <input type="email" placeholder="Email" className="w-[290px] border p-3 outline-none focus:outline-black focus:border-none" />
+          <button className="w-[290px] bg-orange-500 h-[55px] rounded-none">Submit</button>
         </div>
 
 

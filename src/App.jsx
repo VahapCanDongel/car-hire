@@ -1,5 +1,6 @@
 import Navigation from "./components/Navigation";
 import BookingForm from "./sections/BookingForm";
+import Contact from "./sections/Contact";
 import Deals from "./sections/Deals";
 import Faq from "./sections/Faq";
 import Footer from "./sections/Footer";
@@ -18,8 +19,10 @@ export default function App() {
       <VehiclesInformation />
       <SloganDivider />
       <Deals />
-      <Faq />
+
       <Testimonials />
+      <Faq />
+      <Contact />
       <Footer />
     </div>
   )
