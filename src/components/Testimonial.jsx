@@ -1,7 +1,7 @@
 export default function Testimonial({ user_review, user_name, user_location }) {
   return (
     <div>
-      <div className="border w-[600px] p-10 rounded-sm flex justify-center items-center flex-col sm:w-[400px] min-h-[430px] my-8">
+      <div className="border w-[600px] p-10 rounded-sm flex justify-center items-center flex-col sm:w-[400px] min-h-[400px] my-8">
         <p className="w-[450px] text-[20px] font-semibold sm:text-[15px] sm:w-[350px]">
 
           {user_review}
